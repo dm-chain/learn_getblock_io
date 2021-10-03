@@ -1,5 +1,7 @@
 ## learn_getblock_io
 
+Giúp query BSC blockchain mà không cần cài node.
+
 ## Prices
 
 1. Loại `shared node`
